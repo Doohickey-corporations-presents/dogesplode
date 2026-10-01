@@ -1,0 +1,8 @@
+The application links against the devkitPro switch-mpg123 1.31.3-3 package.
+libmpg123 is copyright (c) 1995-2020 Michael Hipp and others and is licensed
+under the GNU Lesser General Public License, version 2.1. The source project is
+available at https://www.mpg123.org/ and https://github.com/madebr/mpg123.
+
+This package's static library and headers were obtained from the devkitPro
+package repository. The static library is in lib/libmpg123.a; headers are in
+include/. See LICENSES/LGPL-2.1.txt for the license text.
